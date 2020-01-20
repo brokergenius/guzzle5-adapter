@@ -66,7 +66,6 @@ class Client implements HttpClient
     private function createRequest(RequestInterface $request)
     {
         $options = [
-            'exceptions' => false,
             'allow_redirects' => false,
         ];
 
