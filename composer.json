@@ -1,5 +1,5 @@
 {
-    "name": "php-http/guzzle5-adapter",
+    "name": "brokergenius/guzzle5-adapter",
     "description": "Guzzle 5 HTTP Adapter",
     "license": "MIT",
     "keywords": ["guzzle", "http"],
